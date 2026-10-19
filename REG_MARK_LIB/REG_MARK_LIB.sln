@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 18
+VisualStudioVersion = 18.0.11116.177 d18.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "REG_MARK_LIB", "REG_MARK_LIB\REG_MARK_LIB.csproj", "{EA44739E-6711-4D92-AB0C-ED27EB4E5913}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA44739E-6711-4D92-AB0C-ED27EB4E5913}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA44739E-6711-4D92-AB0C-ED27EB4E5913}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA44739E-6711-4D92-AB0C-ED27EB4E5913}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA44739E-6711-4D92-AB0C-ED27EB4E5913}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7DEADBF1-6017-47E5-8680-14D8BBD1C207}
+	EndGlobalSection
+EndGlobal
